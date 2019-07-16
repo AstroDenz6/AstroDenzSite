@@ -1,0 +1,1 @@
+/* Thanks to Karsten Buckstegge and Adrian Payne's idea I build this cool animation using only html and css. You are free to use this code in any way you want or you could help me improve it */
